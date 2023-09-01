@@ -163,8 +163,8 @@ footer p {
     }
 }
 
-@media (max-width: 425px){
+@media (max-width: 370px){
     .top_section  .image_container{
-        margin-left: 1rem;
+        margin-left: 0.5rem;
     }
 }
